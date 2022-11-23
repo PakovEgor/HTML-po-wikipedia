@@ -1,0 +1,14 @@
+p {
+  font-size: 24px;
+  background-color: rgb(24, 173, 173);
+  margin: 30px;
+}
+
+.conteiner {
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(156, 153, 153);
+}
+.Товар {
+  text-align: center;
+}
